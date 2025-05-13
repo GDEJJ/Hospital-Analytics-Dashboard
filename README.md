@@ -38,4 +38,3 @@ This dashboard demonstrates my ability to leverage Power BI to handle complex da
 3. Explore the interactive dashboard and use the filters to view specific insights.
 
 ### Sample Visualizations
-![Demographic Dashboard](Screenshot 2025-05-13 083436.png)
